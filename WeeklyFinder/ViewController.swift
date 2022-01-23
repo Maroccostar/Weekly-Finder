@@ -45,3 +45,4 @@ class ViewController: UIViewController {
     
 }
 
+// fix bugs не выпадала цифровая клава, убрал галочку с "Connect Hardware Keyboard
